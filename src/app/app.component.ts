@@ -20,5 +20,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'web422-a6';
+  title = 'web422-a4';
 }
